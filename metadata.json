@@ -1,0 +1,6 @@
+{
+  "name": "Wallet Login",
+  "description": "Aplikasi login dan dashboard dompet kripto mendukung MetaMask, Telegram Wallet (TON Connect), Coinbase Wallet, dan WalletConnect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
